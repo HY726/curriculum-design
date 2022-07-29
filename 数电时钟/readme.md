@@ -9,10 +9,12 @@ https://github.com/HY726/curriculum-design/tree/main/数电时钟/数字电子�
 
 DIYLC电路设计绘图
 https://github.com/HY726/curriculum-design/tree/main/数电时钟/timer.diy
+
 PDF：https://github.com/HY726/curriculum-design/tree/main/数电时钟/timer5.pdf
 
 Multisim电路仿真
 https://github.com/HY726/curriculum-design/tree/main/数电时钟/时钟仿真.ms14
+
 电路原理图：https://github.com/HY726/curriculum-design/tree/main/数电时钟/时钟原理图.pdf
 
 ## 3.课程设计报告
