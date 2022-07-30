@@ -22,7 +22,7 @@ https://github.com/HY726/curriculum-design/tree/main/数电时钟/数电课设.p
 
 
 ## 4.实物展示
-https://github.com/HY726/curriculum-design/tree/main/数电时钟/IMG_8909.HEIC
+https://github.com/HY726/curriculum-design/blob/main/数电时钟/实物.jpg
 
 
 如有任何疑惑，可以加QQ：1294889333或发送QQ邮箱至：1294889333@qq.com
