@@ -11,10 +11,13 @@ Multisim电路仿真
 
 
 电路原理图：
+
 正负12V稳压电源电路
 https://github.com/HY726/curriculum-design/blob/main/模电信号发生器/电路设计PDF/%2B-12V稳压电源.pdf
+
 信号发生器电路
 https://github.com/HY726/curriculum-design/blob/main/模电信号发生器/电路设计PDF/方案一.pdf
+
 https://github.com/HY726/curriculum-design/blob/main/模电信号发生器/电路设计PDF/方案二.pdf
 
 ## 3.课程设计报告
@@ -23,10 +26,13 @@ https://github.com/HY726/curriculum-design/blob/main/模电信号发生器/模�
 
 ## 4.实物展示
 https://github.com/HY726/curriculum-design/blob/main/模电信号发生器/实物.jpg
+
 方波信号
 https://github.com/HY726/curriculum-design/blob/main/模电信号发生器/波形图/方波.jpg
+
 三角波信号
 https://github.com/HY726/curriculum-design/blob/main/模电信号发生器/波形图/三角波.jpg
+
 正弦波信号
 https://github.com/HY726/curriculum-design/blob/main/模电信号发生器/波形图/正弦波.jpg
 
